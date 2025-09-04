@@ -28,6 +28,6 @@ If you want to use such a service in your application:
    @Autowired
    private MyIpClient myIpClient;
 
-https://www.sitecenter.org/tools/myip
+https://myip1.com
 
-Credits: https://www.sitecenter.org
+Credits: https://myip1.com
